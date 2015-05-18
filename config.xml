@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<widget xmlns = "http://www.w3.org/ns/widgets"​
-        xmlns:gap = "http://phonegap.com/ns/1.0"
-        id = "com.chaniemobley.FirstApp"
-        versionCode="10"
-        version = "0.0.1">
+    <widget xmlns = "http://www.w3.org/ns/widgets"​
+            xmlns:gap = "http://phonegap.com/ns/1.0"
+            id = "com.chaniemobley.FirstApp"
+            versionCode="10"
+            version = "0.0.1">
 
-<preference name="phonegap-version" value="3.7.0" />
+    <preference name="phonegap-version" value="3.7.0" />
 
-<name>First App</name>
+    <name>First App</name>
 
-<description>
-This is a test app
-</description>
+    <description>
+    This is a test app
+    </description>
 
-<author href="http://chaniemobley.com" " target="_blank">email="chaniemobley@gmail.com">
-        Chanie Mobley
-        </author>
+    <author href="http://chaniemobley.com" email="chaniemobley@gmail.com">
+            Chanie Mobley
+            </author>
 
-<icon src="images/512.png" />
+    <icon src="images/512.png" />
 
 
 
-        </widget>
+</widget>
